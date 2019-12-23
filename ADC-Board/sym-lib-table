@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name adcBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/adcBoard-rescue.lib)(options "")(descr ""))
-  (lib (name logo)(type Legacy)(uri ${KIPRJMOD}/logo.lib)(options "")(descr ""))
-)
