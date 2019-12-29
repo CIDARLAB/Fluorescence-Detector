@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lockinv1.2-rescue)(type Legacy)(uri ${KIPRJMOD}/lockinv1.2-rescue.lib)(options "")(descr ""))
+)
